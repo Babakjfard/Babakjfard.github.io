@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am Babak Jalalzadeh-Fard, a Research Assistant Professor and Environmental Data Scientist with over nine years of experience addressing the impacts of climate change on public health. My work combines data science, geospatial analysis, and environmental research to develop actionable insights for decision-makers.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+With a background in interdisciplinary engineering, I specialize in programming (Python, R), spatial data science, and machine learning. My recent projects include creating public health tracking tools, developing a Drought Vulnerability Index for Nebraska, and designing COVID-19 decision support dashboards. I am passionate about using advanced data analytics and machine learning to support environmental and health-related decision-making.
+
+Outside of research, I have served as a mentor, collaborated on educational initiatives, and published on climate and health. I am always open to exploring new challenges at the intersection of data science and environmental impact.
