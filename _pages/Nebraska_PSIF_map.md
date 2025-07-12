@@ -1,6 +1,6 @@
 ---
 title: Nebraska PSIF Map
-permalink: /map/
+permalink: /maps/
 ---
 
 <iframe
